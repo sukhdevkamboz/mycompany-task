@@ -46,7 +46,13 @@ This project includes a custom Artisan command for Laravel that performs specifi
     ```bash
     php artisan migrate
     ```
-7. Run server command:
+8. Run server command:
     ```bash
     php artisan ser
     ```
+## ✅ Usage
+
+### For test api get postman collections and import
+
+```bash
+mycompany-task/Mycompany-tasl-apis.postman_collection.json
