@@ -42,10 +42,11 @@ This project includes a custom Artisan command for Laravel that performs specifi
 
 6. Configure database in `.env` if needed.
 
-## ✅ Usage
-
-### Run the custom command
-
-```bash
-php artisan migrate
-php artisan ser
+7. Run database migration:
+    ```bash
+    php artisan migrate
+    ```
+7. Run server command:
+    ```bash
+    php artisan ser
+    ```
